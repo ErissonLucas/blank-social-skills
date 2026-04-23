@@ -1,0 +1,23 @@
+{
+  "skill_name": "social-story",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Preciso de uma sequência de stories para vender uma mentoria de R$3.500. Meu cliente é um especialista em gestão financeira para médicos, a mentoria dura 3 meses, e já ajudou 47 médicos a sair do cheque especial. O objetivo é fazer 5 vendas essa semana. Que stories eu crio?",
+      "expected_output": "Funil de Narrativa para Vendas completo (4 telas): Contexto/Timing (dor atual dos médicos com dinheiro), Dor/Problema (específica e reconhecível), Autoridade/Solução com Big Numbers (47 médicos, 3 meses), e CTA claro. Copy pronto para cada story com sugestão de formato (enquete, caixinha, vídeo).",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "Estou gerenciando os stories da dona de uma padaria artesanal que está abrindo uma segunda unidade. Ela quer mostrar o processo de abertura da nova loja nos stories mas não sabe como estruturar. São 30 dias até a abertura. Como a gente constrói essa narrativa?",
+      "expected_output": "Arquitetura de narrativa de 30 dias como novela diária: divisão por semanas (fase de construção, fase de bastidores, fase de contagem regressiva), tipos de stories por fase, mix de Jogo do Volume (intimidade com o processo) e Jogo do Alcance (CTAs de pré-cadastro ou lista VIP), e exemplos de copy para 5 stories.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Meu cliente é um coach de produtividade com 80 mil seguidores. Os stories dele são aleatórios — ora posta foto da academia, ora dica de app, ora motivacional genérico. Não tem fio condutor. Como eu estruturo a arquitetura de stories dele para criar mais intimidade e consistência?",
+      "expected_output": "Diagnóstico (stories sem arco narrativo = perda de intimidade e hábito), proposta de arquitetura diária (início/meio/fim), identificação dos Braços/Camadas de personalidade do coach (produtividade, esporte, família, filosofia), sugestão de Destaques Estratégicos, e Código de Cultura básico.",
+      "files": []
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "skill_name": "social-escrita",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Preciso de um roteiro de Reels para uma psicóloga especializada em ansiedade. O vídeo precisa falar sobre o erro mais comum que as pessoas cometem quando tentam controlar a ansiedade sozinhas (que é tentar suprimir o pensamento ansioso, o que piora tudo). Ela tem um jeito de falar direto, sem drama. Público: mulheres de 28 a 45 anos.",
+      "expected_output": "Roteiro completo em Matriz FBF: headline com familiaridade e omissão de termos clínicos, contexto que cria identificação, desenvolvimento com curiosity loop e persuasão pelo desconforto (a crença errada é tentar suprimir), conclusão com lição aplicável, e CTA único. Deve ter anotações de intenção em cada seção.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "Me ajuda a criar um carrossel sobre os 4 principais erros que empreendedores cometem ao contratar o primeiro funcionário. Meu cliente é um mentor de negócios que atende pequenos empresários (faturamento de 20 a 200k/mês). Tom de voz: direto, provoca, mas não arrogante.",
+      "expected_output": "Estrutura slide a slide do carrossel: capa com gancho forte, slides 2-5 com um erro por slide + micro-gancho de arrastar, slide final com conclusão e CTA. Cada slide com copy pronto e sugestão visual. Máximo 4-6 linhas por slide.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Quero escrever um storytelling sobre como saí de 0 para 100 alunos no meu curso de fotografia em 6 meses. Sou professora de fotografia analógica, o curso custa R$497, e antes de lançar todo mundo me disse que fotografia analógica 'estava morta'. O conteúdo é para o meu Instagram.",
+      "expected_output": "Roteiro de storytelling com Background (o ceticismo do mercado + minha dúvida), Conflito (o momento de virada — a decisão de lançar contra o consenso), e Resolução (os 100 alunos como prova). Deve ter headline provocante, curiosity loop no meio, e CTA que converta para o próximo lançamento.",
+      "files": []
+    }
+  ]
+}

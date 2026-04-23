@@ -1,0 +1,23 @@
+{
+  "skill_name": "social-posicionamento",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Preciso montar o planejamento estratégico de uma nutricionista funcional que atende mulheres 35+ que querem perder peso sem dieta restritiva. Ela tem 8 mil seguidores no Instagram, posta de forma irregular, e a concorrência está cheia de nutricionistas que pregam dietas muito rígidas. O ticket médio dela é R$350/mês de acompanhamento. Me ajuda a estruturar o posicionamento dela?",
+      "expected_output": "Planejamento estratégico completo com Diagrama de Posicionamento (Você × Mercado × Sociedade), identificação do tipo de posicionamento (anti-marca em relação às dietas restritivas), Missão, Tom de Voz, Pilares 50/40/10, e Editorias iniciais.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "Sou advogado tributarista há 12 anos e nunca produzi conteúdo. Meu sócio disse que preciso estar no LinkedIn e no Instagram pra atrair clientes de médio porte (empresas de 5 a 50 funcionários). Não sei por onde começar. Qual seria meu posicionamento?",
+      "expected_output": "Diagnóstico do estágio (Descoberta), identificação de diferencial (12 anos de experiência como credencial), proposta de posicionamento (simplificar o complexo tributário), canais recomendados com justificativa, e pilares de conteúdo adaptados ao nicho jurídico.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Minha cliente é uma CEO de uma startup de RH tech. Ela tem 15 mil seguidores no LinkedIn mas o perfil parece uma salada de frutas — ela posta sobre maternidade, gestão de pessoas, feminismo, tecnologia, tudo junto. As postagens não convertem em nada comercial. Como a gente reformula o posicionamento dela sem perder a personalidade?",
+      "expected_output": "Análise de estagnação (conteúdo sem foco estratégico), aplicação do Diagrama para identificar interseção entre identidade da CEO e mercado de RH tech, proposta de missão unificadora que integre os temas sem perder personalidade, e Pilares que organizam os assuntos dentro de uma narrativa coerente.",
+      "files": []
+    }
+  ]
+}

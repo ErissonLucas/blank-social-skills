@@ -1,0 +1,23 @@
+{
+  "skill_name": "social-curadoria",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Gerencio o Instagram de um arquiteto de interiores de alto padrão. Estou há 3 semanas sem conseguir escrever uma pauta sequer. Todo dia abro o doc em branco e trava. Ele tem 22 mil seguidores, posta projetos residenciais de luxo (apartamentos acima de R$2mi). Como eu sai desse bloqueio e monto as pautas da próxima semana?",
+      "expected_output": "Diagnóstico da curadoria (bloqueio = falta de repertório, não falta de criatividade), aplicação da regra 90/10, técnicas de curadoria para nicho de luxo (conta fake, referências internacionais), separação tese × tema com pelo menos 5 teses concretas para arquitetura de alto padrão, e esboço do calendário da semana.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "Preciso de um briefing de vídeo para mandar para o editor. O roteiro é sobre como calcular o preço de um bolo de confeitaria. A confeiteira é a Mariana, 45 anos, fala de forma bem direta e sem rodeios, público dela são confeiteiras iniciantes. Quero um Reels de até 60 segundos.",
+      "expected_output": "Briefing completo com: referências visuais específicas (não genéricas), indicações de b-roll (mãos pesando ingredientes, planilha aparecendo na tela), sugestão de trilha (animada mas não infantil), momentos de corte, emoção-alvo por segmento do vídeo, e instruções de texto em tela.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Como eu posso criar pautas de conteúdo para um consultor de vendas que atende equipes comerciais de empresas B2B? Ele quer conteúdo que gere leads, não só seguidores. Qual seria a lógica de curadoria e que tipos de conteúdo ele deveria priorizar?",
+      "expected_output": "Aplicação da separação Tese × Tema para vendas B2B, identificação de conteúdos quentes vs frios para o nicho, intercâmbio de áreas aplicado (entrevistar vendedores do cliente sobre objeções reais), estrutura de calendário com peso maior em conteúdos de meio/fundo de funil para geração de MQL.",
+      "files": []
+    }
+  ]
+}
