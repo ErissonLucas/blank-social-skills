@@ -211,11 +211,56 @@ Cada slide é um momento de decisão. A estrutura cria o fluxo de "quero ver o p
 - "O motivo pelo qual [crença comum] está errado"
 - "[Número] de [resultado] em [tempo]"
 
-**Slides do meio**: uma ideia por slide. Limite de 4-6 linhas. Micro-gancho de arrastar no final de cada um:
-- "No próximo slide, o que ninguém fala sobre isso..."
-- "Slide 4: o dado que mudou nossa estratégia"
+**Slides do meio**: uma ideia por slide. Limite de 4-6 linhas. Micro-gancho de arrastar no final de cada um.
 
 **Slide Final**: fecha o argumento + CTA claro.
+
+### Modo Twitter — Escrita Ultra-Compacta
+
+Quando o objetivo é máxima retenção por slide e ritmo rápido, aplique o **Modo Twitter**:
+- **2 a 4 linhas por slide** — máximo absoluto
+- **Zero parágrafos** — cada linha é uma afirmação autônoma
+- **Cada slide = uma única ideia**
+- **Verbos diretos** — sujeito + ação + consequência
+
+Ideal para carrosseis técnicos, educativos ou de tese em nichos profissionais.
+
+| | Modo Padrão | Modo Twitter |
+|---|---|---|
+| Linhas por slide | 4–6 | 2–4 |
+| Parágrafos | Permitidos | Proibidos |
+| Ritmo | Narrativo | Staccato |
+
+### CTAs no Carrossel
+
+**Mid-CTA**: entra após o pico do conflito, antes do desenvolvimento — tensão máxima, leitor ainda sem resposta. Fórmula: *"Vou te mostrar, mas antes já envia pra um amigo."*
+
+**CTA Final** — estrutura em 3 linhas:
+1. Retoma o tema do carrossel
+2. Pergunta que conecta o tema ao produto
+3. Nome do produto + ação
+
+Exemplo: *"Tudo que está aqui tem um método por trás. / Quer aprender X na prática? / É o [Produto]. Link na bio."*
+
+### Micro-ganchos de Arrastar
+
+Todo slide intermediário deve terminar com um micro-gancho — sem exceção. Slides de CTA são os únicos isentos.
+
+**Banco de 9 tipos — variar a cada slide:**
+
+| Tipo | Exemplo |
+|---|---|
+| Convite | "Deixa eu te mostrar por quê." |
+| Antecipação | "Um deles é o que quase todo advogado usa hoje." |
+| Consequência | "E o STJ não está sendo gentil com quem insiste." |
+| Pergunta | "Qual é o critério que realmente funciona, então?" |
+| Escalonamento | "Mas tem uma prova que vai além disso." |
+| Mistério | "E esse nem é o problema mais escondido." |
+| Desafio | "O problema: como provar sem ter acesso ao banco?" |
+| Validação | "É exatamente isso que o STJ vai consolidar." |
+| Abertura | "O método se aprende. E você pode começar agora." |
+
+Nunca usar o mesmo tipo em dois slides consecutivos — o leitor reconhece o padrão e a curiosidade cai.
 
 ### Tipos de Carrossel
 
@@ -241,6 +286,9 @@ Antes de entregar qualquer roteiro:
 3. Há persuasão pelo desconforto — o espectador é deslocado de uma crença?
 4. O CTA está no lugar certo (não empilhado)?
 5. Qual tese este roteiro levanta? Se não dá para responder, o posicionamento sumiu.
+6. **[Carrossel — Modo Twitter]** Cada slide tem no máximo 4 linhas e zero parágrafos?
+7. **[Carrossel]** Os micro-ganchos variam de tipo? Há repetição consecutiva?
+8. **[Carrossel]** O mid-CTA está posicionado após o conflito, antes do desenvolvimento?
 
 ---
 
