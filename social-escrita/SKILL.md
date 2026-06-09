@@ -81,10 +81,46 @@ específicos que afastam quem não está no nicho.
 - ❌ "4 tipos de queijo para usar na fondue" (afasta quem não gosta de queijo)
 - ✅ "Essa receita vai salvar seu almoço de domingo" (familiar, todo mundo tem almoço de domingo)
 
-**Rage Bait (quando estratégico)**: provocar indignaçção controlada na abertura para gerar
+**Rage Bait (quando estratégico)**: provocar indignação controlada na abertura para gerar
 comentários e retenção. Exemplo: abrir chamando alguém de "mais insuportável da internet" para
 depois quebrar o padrão revelando por que ela é "insuportavelmente genial".
 Use com intenção — rage bait sem fundamento no desenvolvimento destrói credibilidade.
+
+**Gancho de Ruptura Disruptiva**: estrutura de 4 linhas em sequência que combina comando, reveal, magnitude histórica e curiosidade específica. Cada linha responde à anterior e abre a próxima — não cria só tensão, cria progressão. Ideal para temas de novidade, lançamentos e mudanças de mercado.
+
+```
+Linha 1: COMANDO + ÂNCORA CONHECIDA
+         (o que o leitor faz/acredita hoje — e deve parar)
+
+Linha 2: NOVO FATO + GATILHO DE NOVIDADE
+         (o que mudou, com "acaba de" ou equivalente)
+
+Linha 3: MAGNITUDE HISTÓRICA + ÂNCORA TEMPORAL
+         (a grandeza do momento + quando aconteceu)
+
+Linha 4: "VEJA" + NÚMERO/NOME ESPECÍFICO
+         (convite concreto para o próximo slide)
+```
+
+Exemplo validado:
+> "Pode cancelar sua assinatura do ChatGPT.
+> O Claude acaba de virar especialista jurídico.
+> A IA jurídica genérica acabou esta semana.
+> Veja quais são as 12 áreas de atuação do 'Claude for Legal'."
+
+**Regra inegociável**: a linha 1 deve nomear algo que o leitor **reconhece como seu** — uma ferramenta que usa, um comportamento que tem, uma crença que carrega. Sem isso, o comando não tem onde pousar.
+
+**Dois padrões dentro do Gancho de Ruptura:**
+
+**Âncora de Concorrente**: usar um nome amplamente conhecido (ferramenta, plataforma, instituição, número) como ponto de comparação na linha 1. Elimina a necessidade de explicar contexto — o leitor já sabe o que está em jogo.
+- ✅ "Pode cancelar sua assinatura do ChatGPT." (ferramenta como âncora)
+- ✅ "Pode parar de levar proposta para o gerente da agência." (comportamento como âncora)
+- ✅ "Pode riscar o R$600 da sua planilha de negociação." (número como âncora)
+
+**Gatilho de Novidade Temporal**: termos que sinalizam que a informação é exclusiva e perecível. Cria urgência sem precisar declará-la. Pertence ao gancho — não ao contexto.
+- ✅ "O Claude acaba de virar especialista jurídico."
+- ✅ "A IA jurídica genérica acabou esta semana."
+- ❌ "A IA está mudando o direito." (sem âncora temporal = sem urgência)
 
 ### Seção 2 — Contexto
 
@@ -134,25 +170,6 @@ Exemplos de CTAs eficazes:
 - Salvar o vídeo
 - Seguir para continuar recebendo esse tipo de análise
 - Ir para o link na bio
-
-**Posicionamento do Mid-CTA em carrosseis:**
-O mid-CTA deve entrar após o pico do conflito e antes do desenvolvimento — quando a tensão está no máximo e o leitor ainda não tem a resposta. Esse é o momento de maior propensão ao compartilhamento.
-
-Fórmula validada:
-> "Vou te mostrar, mas antes já envia pra um amigo."
-
-**Fórmula do CTA Final:**
-Não vender direto. Retomar o tema central do carrossel e conectar ao produto.
-
-Estrutura em 3 linhas:
-1. Uma linha que retoma o tema do carrossel
-2. Pergunta que conecta o tema ao produto
-3. Nome do produto + ação
-
-Exemplo:
-> "Tudo que está aqui tem um método por trás.
-> Quer aprender X na prática?
-> É o [Produto]. Link na bio."
 
 ---
 
@@ -225,6 +242,27 @@ Quando o objetivo é máxima retenção por slide e ritmo de leitura rápido, ap
 | Densidade | Moderada | Alta por linha |
 | Ritmo | Narrativo | Staccato |
 
+### CTAs no Carrossel
+
+**Posicionamento do Mid-CTA:**
+O mid-CTA deve entrar após o pico do conflito e antes do desenvolvimento — quando a tensão está no máximo e o leitor ainda não tem a resposta. Esse é o momento de maior propensão ao compartilhamento.
+
+Fórmula validada:
+> "Vou te mostrar, mas antes já envia pra um amigo."
+
+**Fórmula do CTA Final:**
+Não vender direto. Retomar o tema central do carrossel e conectar ao produto.
+
+Estrutura em 3 linhas:
+1. Uma linha que retoma o tema do carrossel
+2. Pergunta que conecta o tema ao produto
+3. Nome do produto + ação
+
+Exemplo:
+> "Tudo que está aqui tem um método por trás.
+> Quer aprender X na prática?
+> É o [Produto]. Link na bio."
+
 ---
 
 ### Tipos de Carrossel
@@ -289,6 +327,8 @@ Use internamente para avaliar um roteiro antes de entregar:
 6. **[Carrossel — Modo Twitter]** Cada slide tem no máximo 4 linhas e zero parágrafos?
 7. **[Carrossel]** Os micro-ganchos variam de tipo? Há repetição consecutiva?
 8. **[Carrossel]** O mid-CTA está posicionado após o conflito, antes do desenvolvimento?
+9. **[Gancho de Ruptura]** A linha 1 nomeia algo que o leitor reconhece como seu? O comando tem onde pousar?
+10. **[Gancho de Ruptura]** Há Gatilho de Novidade Temporal na linha 2 ou 3 ("acaba de", "esta semana", "ontem")?
 
 ---
 
@@ -321,9 +361,12 @@ Ao receber um pedido de roteiro ou carrossel:
 - **Headline**: abertura do vídeo/carrossel, primeiros 3 segundos
 - **Curiosity Loop**: gancho que abre um novo loop de curiosidade para reter o espectador
 - **Batimento Cardíaco**: ritmo de altos e baixos emocionais ao longo do roteiro
-- **Rage Bait**: provocação intencional para gerar indignaçção e comentários na abertura
+- **Rage Bait**: provocação intencional para gerar indignação e comentários na abertura
 - **Big Idea / Tese**: bandeira principal que o conteúdo defende
 - **Background / Conflito**: as duas partes do Contexto em storytellings
 - **Micro-gancho de Arrastar**: frase no final de cada slide que cria curiosidade pelo próximo
 - **Deslocamento de Interpretação**: tirar o espectador de uma crença antiga para uma nova
 - **Handoff**: alinhamento entre estrategista e equipe de produção sobre intenção do roteiro
+- **Gancho de Ruptura Disruptiva**: estrutura de 4 linhas (comando + reveal + magnitude + curiosidade específica) para temas de novidade e mudança de mercado
+- **Âncora de Concorrente**: referência conhecida usada na linha 1 do Gancho de Ruptura para eliminar contexto e criar ruptura imediata
+- **Gatilho de Novidade Temporal**: termos de recência ("acaba de", "esta semana", "ontem") que criam urgência no gancho sem precisar declará-la
